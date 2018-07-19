@@ -1,3 +1,5 @@
+ESTA NORMATIVA SE ENCUENTRA EN CONSTRUCCION. EL TEXTO QUE FIGURA A CONTINUACIÓN ES PROPIEDAD DE [BRICO-LABS](https://github.com/brico-labs) Y HACE REFERENCIA A LAS COMPETICIONES CELEBRADAS EN LA OSHWDEM. SE HA COPIADO EN ESTE REPOSITORIO CON EL OBJETIVO DE UTILIZAR COMO PLATILLA DURANTE EL DESARROLLO Y COMPATIBILIZAR LA NORMATIVA DE OPEN-ROBOSPORT CON LAS COMPETICIONES PROPIAS DE LA OSHWDEM :)
+
 # normativa-combate
 # Reglamento de Combate
 Somos conscientes de que en realidad esta competición es de cacharros móviles teleoperados de combate y no son propiamente Robots, pero los llamaremos así para hacerlo más corto ;) Este reglamento tiene la intención de fomentar la competición justa y asegurar la máxima seguridad posible. Pero también queremos que haya el mayor número de participantes, por lo que te animamos a competir. En el caso de cualquier duda no dudes en ponerte en contacto con nosotros en el correo info@oshwdem.org
